@@ -1,0 +1,66 @@
+style types
+sumi-e
+ghibli
+sunrise
+baroque
+bauhaus
+blanchitsu
+
+
+artists
+mendoza
+yoji shinkawa
+tomino sama
+katsuhiro otomo
+junji ito
+akihito yoshida
+takashi murakami
+greg rutkowski
+moebius
+HR Giger
+Beksinski
+MC Escher
+Alexey Pyatov
+hurbert robert
+john blanche
+Ian McQue
+ted nasmith
+Klimt
+Kentaro Miura
+Ryogi Minagawa
+Yoshitaka Amano
+Hiromasa Ogura
+Masamune Shirow
+Akira Toriyama
+Frank Frazetta
+Doug Drexler
+Craig Mullins
+Charles Le Brun
+Reubens
+Sabastiano Ricci
+Guido Reni
+Mamoru Oshi
+Shiunji Usui
+thomas kinkade
+alphonse mucha
+norman rockwell
+oliver jeffers
+loish
+beatrice blue
+
+
+locations
+battlefield
+illegal meeting
+Shibuya
+Shinjuku
+Tokyo
+Okinawa
+Kanto region
+Hokkaido region
+Kyushu region
+gunma prefecture
+saitama prefecture
+chiba prefecture
+tochigi prefecture
+kanagawa prefecture
