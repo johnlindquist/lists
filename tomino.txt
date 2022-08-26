@@ -1,13 +1,9 @@
-style types
 sumi-e
 ghibli
 sunrise
 baroque
 bauhaus
 blanchitsu
-
-
-artists
 mendoza
 yoji shinkawa
 tomino sama
@@ -47,20 +43,3 @@ norman rockwell
 oliver jeffers
 loish
 beatrice blue
-
-
-locations
-battlefield
-illegal meeting
-Shibuya
-Shinjuku
-Tokyo
-Okinawa
-Kanto region
-Hokkaido region
-Kyushu region
-gunma prefecture
-saitama prefecture
-chiba prefecture
-tochigi prefecture
-kanagawa prefecture
